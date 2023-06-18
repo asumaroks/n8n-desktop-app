@@ -47,7 +47,7 @@
     "cross-env": "^7.0.3",
     "dotenv": "^10.0.0",
     "find-process": "^1.4.7",
-    "n8n": "^0.216.2",
+    "n8n": "^0.231.3",
     "node-fetch": "^2",
     "p-cancelable": "^2.0.0",
     "respawn": "^2.6.0",
@@ -55,8 +55,8 @@
     "wait-on": "^6.0.0"
   },
   "devDependencies": {
-    "electron": "^15.1.1",
-    "electron-builder": "^22.11.7",
+    "electron": "^25.1.1",
+    "electron-builder": "^24.4.0",
     "electron-notarize": "^1.1.1"
   }
 }
