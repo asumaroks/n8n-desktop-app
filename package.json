@@ -47,7 +47,7 @@
     "cross-env": "^7.0.3",
     "dotenv": "^10.0.0",
     "find-process": "^1.4.7",
-    "n8n": "^0.231.3",
+    "n8n": "^0.217.2",
     "node-fetch": "^2",
     "p-cancelable": "^2.0.0",
     "respawn": "^2.6.0",
